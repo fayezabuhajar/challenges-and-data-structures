@@ -17,3 +17,5 @@ console.log(list.includes(10));
 list.insertAt(15, 2);
 
 list.printList(); 
+list.reverse();
+list.printList(); 
