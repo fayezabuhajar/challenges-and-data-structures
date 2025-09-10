@@ -13,6 +13,9 @@
 3. ### Merging Sorted Linked Lists
 ![Merging Sorted Linked Lists](DataStructures/LinkedList/Linked-List-Implementation/docs/mergeSorted-whiteboard.png)
 
+4. ### Linked List Rotate by k
+![Linked List Rotate by k](DataStructures/LinkedList/Linked-List-Implementation/docs/rotate-whiteboard.png)
+
 ### challenges
 
 1. ### Whiteboard Images
