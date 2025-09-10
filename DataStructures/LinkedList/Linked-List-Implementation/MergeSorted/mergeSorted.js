@@ -36,7 +36,7 @@ class MergeSortedLists {
   }
 
   // Print list starting from a head node
-  static print(head) {
+  static display(head) {
     let current = head;
     let result = 'Head -> ';
     while (current !== null) {

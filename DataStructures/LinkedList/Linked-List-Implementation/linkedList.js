@@ -47,7 +47,7 @@ class LinkedList {
         }
     }
 
-    printList() {
+    display() {
         try {
             let current = this.head;
             let output = 'Head -> ';
