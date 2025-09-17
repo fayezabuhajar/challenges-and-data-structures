@@ -16,6 +16,13 @@
 4. ### Linked List Rotate by k
 ![Linked List Rotate by k](DataStructures/LinkedList/Linked-List-Implementation/docs/rotate-whiteboard.png)
 
+5. ### Stack
+![stack](DataStructures/Stack-and-Queue/stack-and-queue-Implementation/docs/stack-whiteborad.png)
+
+6. ### Queue
+![queue](DataStructures/Stack-and-Queue/stack-and-queue-Implementation/docs/queue-whiteboard.png)
+
+
 ### challenges
 
 1. ### Whiteboard Images
