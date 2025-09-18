@@ -33,3 +33,6 @@
 ### Challenge B: Most Frequent Number
 ![Most Frequent Number Whiteboard](whiteboard-challenges/Most-Frequent-Number.png)
 
+2. ### Minimum Value
+![Minimum Value](Challenges/Minimum-value/whiteboard.png)
+
