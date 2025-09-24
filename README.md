@@ -22,6 +22,10 @@
 6. ### Queue
 ![queue](DataStructures/Stack-and-Queue/stack-and-queue-Implementation/docs/queue-whiteboard.png)
 
+7. ### Min Stack
+![minstack whiteboard](DataStructures/Stack-and-Queue/minStack/docs/conole-outputs-min-stack.png)
+
+
 
 ### challenges
 
