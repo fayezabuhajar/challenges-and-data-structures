@@ -23,7 +23,10 @@
 ![queue](DataStructures/Stack-and-Queue/stack-and-queue-Implementation/docs/queue-whiteboard.png)
 
 7. ### Min Stack
-![minstack whiteboard](DataStructures/Stack-and-Queue/minStack/docs/conole-outputs-min-stack.png)
+![minstack whiteboard](DataStructures/Stack-and-Queue/minStack/docs/min-stack-whitebord.png)
+
+8. ### Delete Middle Element
+[text](DataStructures/Stack-and-Queue/DeleteMiddleElement/README.md)
 
 
 
