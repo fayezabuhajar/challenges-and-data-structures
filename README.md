@@ -26,7 +26,10 @@
 ![minstack whiteboard](DataStructures/Stack-and-Queue/minStack/docs/min-stack-whitebord.png)
 
 8. ### Delete Middle Element
-[text](DataStructures/Stack-and-Queue/DeleteMiddleElement/README.md)
+[Delete Middle Element](DataStructures/Stack-and-Queue/DeleteMiddleElement/README.md)
+
+9. ### Binary Tree & Binary Search Tree
+[Binary Tree & Binary Search Tree](DataStructures/Trees/TreeImplementation/docs/whiteboard-BT-BST.png)
 
 
 
