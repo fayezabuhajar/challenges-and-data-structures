@@ -31,7 +31,8 @@
 9. ### Binary Tree & Binary Search Tree
 [Binary Tree & Binary Search Tree](DataStructures/Trees/TreeImplementation/docs/whiteboard-BT-BST.png)
 
-
+10. ### Second Maximum in Binary Tree
+![whiteboard-secondMaxValue](DataStructures/Trees/TreeImplementation/SecondMaxValue/Docs/whiteboard-secondMaxValue.png)
 
 ### challenges
 
