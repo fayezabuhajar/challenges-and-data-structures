@@ -32,7 +32,10 @@
 [Binary Tree & Binary Search Tree](DataStructures/Trees/TreeImplementation/docs/whiteboard-BT-BST.png)
 
 10. ### Second Maximum in Binary Tree
-![whiteboard-secondMaxValue](DataStructures/Trees/TreeImplementation/SecondMaxValue/Docs/whiteboard-secondMaxValue.png)
+![Second Maximum in Binary Tree](DataStructures/Trees/TreeImplementation/SecondMaxValue/Docs/whiteboard-secondMaxValue.png)
+
+11. ### Binary Tree - Sum of leaf nodes
+![Sum of leaf nodes](DataStructures/Trees/TreeImplementation/LeafSum/docs/whiteboard-leaf-sum.png)
 
 ### challenges
 
